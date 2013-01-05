@@ -1,0 +1,28 @@
+[33mcommit 38cad4aa6d1bba6b8f251a8fa3607151fa0bc0bb[m
+Author: Laura Flanagin <lnflanagin@gmail.com>
+Date:   Fri Jan 4 17:45:49 2013 -0500
+
+    Updated frontend for the new authentication system.
+    
+    Added simple_form
+    Updated several forms to bootstrap/simple_form
+    Added login/logout/register/profile links to our nav
+    Added a collection select to our status form
+
+[33mcommit 240a130153819c1b9b3672967fff8ed919569f3e[m
+Author: Laura Flanagin <lnflanagin@gmail.com>
+Date:   Fri Jan 4 13:29:47 2013 -0500
+
+    Installed devise, added a user, and installed views.
+
+[33mcommit c0c9f0c658677273e1ab2d6b4a338201ce95c823[m
+Author: Laura Flanagin <lnflanagin@gmail.com>
+Date:   Thu Jan 3 21:16:21 2013 -0500
+
+    Added bootstrap and applied layout to the page.
+
+[33mcommit 5bea6c5448e4252a36e6cb264849f6b43442ea22[m
+Author: Laura Flanagin <lnflanagin@gmail.com>
+Date:   Thu Jan 3 16:50:03 2013 -0500
+
+    Created a rails application and added status updates
